@@ -1,0 +1,30 @@
+
+* {
+    font-family: "Arial";
+}
+.box {
+    padding: 5px 10px;
+    margin: 5px 0px;
+    border: 2px solid grey;
+    border-radius: 5px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #00000011;
+}
+
+a.btn {
+    text-decoration: none;
+    color: black;
+}
+
+input.btn {
+    border: 0px;
+    font-size: 1rem;
+}
+
+.btn:hover{
+    background-color: #00000022;
+}
